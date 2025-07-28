@@ -9,6 +9,6 @@ This repo contains End to End DevOps Implementation on a E-Commerce project wher
 
 ## Source Code Reference
 
-The base source code forthis project was forked and is available in my repository here : https://github.com/Shrishti-Bhasin/ultimate-devops-project-demo
+The base source code for this project was forked and is available in my repository here : https://github.com/Shrishti-Bhasin/ultimate-devops-project-demo
 
 All the screenshots and implementations in this repository refelct my personal hands-on work built upon the original source code.
