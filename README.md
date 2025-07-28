@@ -11,4 +11,4 @@ This repo contains End to End DevOps Implementation on a E-Commerce project wher
 
 This project is based on/forked from https://github.com/Shrishti-Bhasin/ultimate-devops-project-demo
 
-All the screenshots and implementations in this repository refelct my personal hands-on work built upon the origial source code.
+All the screenshots and implementations in this repository refelct my personal hands-on work built upon the original source code.
