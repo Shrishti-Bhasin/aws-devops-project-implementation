@@ -1,4 +1,4 @@
-# aws-devops-project-implementation
+# End to End AWS DevOps Project Implementation
 This repo contains End to End DevOps Implementation on a E-Commerce project wherin I have performed:
 
 - Infrastructure setup on AWS (S3 bucket, Dynamo DB, VPC, EKS) using terraform
@@ -20,4 +20,3 @@ This repo contains End to End DevOps Implementation on a E-Commerce project wher
 
 
 
-3.
