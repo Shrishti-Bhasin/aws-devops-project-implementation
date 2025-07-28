@@ -4,6 +4,7 @@ This repo contains End to End DevOps Implementation on a E-Commerce project wher
 1. Infrastructure setup on AWS (S3 bucket, Dynamo DB, VPC, EKS) using terraform
 
 **S3 Bucket and Dynamo DB Creation**
+
 <img width="624" height="465" alt="image" src="https://github.com/user-attachments/assets/f97aff1d-c7ce-4bc9-9fc5-1bd457c285b3" />
 
 ---
