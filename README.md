@@ -1,7 +1,11 @@
 # aws-devops-project-implementation
 This repo contains End to End DevOps Implementation on a E-Commerce project wherin I have performed:
 
-1. Infrastructure setup on AWS (S3 bucket, Dynamo DB, VPC, EKS) using terraform
+- Infrastructure setup on AWS (S3 bucket, Dynamo DB, VPC, EKS) using terraform
+- Containerization of micro-services using docker.
+- Used kubernetes for orchestration.
+- Implemented CI/CD using github actions and Argo CD follwing devsecOps best practices. 
+
 
 **S3 Bucket and Dynamo DB Creation**
 
@@ -15,6 +19,4 @@ This repo contains End to End DevOps Implementation on a E-Commerce project wher
 
 
 
-3. Containerization of micro-services using docker.
-4. Used kubernetes for orchestration.
-5. Implemented CI/CD using github actions and Argo CD follwing devsecOps best practices. 
+3.
