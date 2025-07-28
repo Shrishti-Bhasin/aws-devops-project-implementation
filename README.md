@@ -14,6 +14,7 @@ This repo contains End to End DevOps Implementation on a E-Commerce project wher
 ---
 
 **VPC & EKS Creation**
+
 <img width="624" height="384" alt="image" src="https://github.com/user-attachments/assets/41b980e0-aa4d-4fe8-8900-a63ccdd6bddf" />
 <img width="624" height="263" alt="image" src="https://github.com/user-attachments/assets/6f0c440a-3840-4841-9c50-c0cd1742438e" />
 
