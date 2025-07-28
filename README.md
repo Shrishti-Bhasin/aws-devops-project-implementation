@@ -7,8 +7,8 @@ This repo contains End to End DevOps Implementation on a E-Commerce project wher
 - Implemented CI/CD using github actions and Argo CD follwing devsecOps best practices.
 - Setup route53 for the custom domain
 
-## Original  Repository
+## Source Code Reference
 
-This project is based on/forked from https://github.com/Shrishti-Bhasin/ultimate-devops-project-demo
+The base source code forthis project was forked and is available in my repository here : https://github.com/Shrishti-Bhasin/ultimate-devops-project-demo
 
 All the screenshots and implementations in this repository refelct my personal hands-on work built upon the original source code.
