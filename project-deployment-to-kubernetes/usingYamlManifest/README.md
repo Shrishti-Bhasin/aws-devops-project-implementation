@@ -4,6 +4,8 @@
 
 <img width="624" height="86" alt="image" src="https://github.com/user-attachments/assets/4c8bb8a3-6064-4083-89c9-c33dab6f766d" />
 
+** changed the service type to Load Balancer **
+
 <img width="529" height="432" alt="image" src="https://github.com/user-attachments/assets/fb1c2d49-39b6-4924-b1b6-305b84bfb7e5" />
 
 <img width="690" height="330" alt="image" src="https://github.com/user-attachments/assets/c1b473fa-3c6f-4838-8d2c-106965b0e3a2" />
