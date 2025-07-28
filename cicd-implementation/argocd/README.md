@@ -2,9 +2,11 @@
 <img width="624" height="227" alt="image" src="https://github.com/user-attachments/assets/b9b39c28-1f9c-480a-9def-fb47712f0d6b" />
 
 # Deploying the project using Argo CD.
-<img width="587" height="237" alt="image" src="https://github.com/user-attachments/assets/036d4fa7-7e5c-4a05-96c1-66db1b3e275b" />
+<img width="624" height="293" alt="image" src="https://github.com/user-attachments/assets/fc87b096-138b-482d-9d70-26d5a13b9149" />
 
-<img width="661" height="233" alt="image" src="https://github.com/user-attachments/assets/607bd6ba-84ec-4450-aa6e-850c21d3ee54" />
+
+<img width="624" height="309" alt="image" src="https://github.com/user-attachments/assets/f3292495-2746-4c01-af54-6a3b4b59bc13" />
+
 
 
 
